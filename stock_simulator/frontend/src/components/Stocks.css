@@ -1,0 +1,19 @@
+.stockdiv{
+    overflow:auto;
+    margin:10px;
+}
+.sidebarscroll{
+    overflow-x:hidden;
+    overflow-y:auto;
+}
+
+.stockName{
+    float:left;
+    font-size: 30px;
+}
+
+.stockPrice{
+    margin-top: 22px;
+    float:right;
+
+}

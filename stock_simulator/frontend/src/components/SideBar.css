@@ -1,0 +1,37 @@
+.SideBarDiv{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding:10px;
+}
+
+.SideBarPrice{
+    font-size:30px;
+    padding:5px;
+}
+
+.SideBarSection{
+    display: flex;
+}
+
+.SideBarRange{
+    width:300px
+}
+.SideBarInput{
+    margin: 5px;
+    width:60px;
+}
+.SideBarTitle{
+    margin: 5px;
+}
+
+.BuyButton{
+    align-self:center;
+    position: relative;
+    top: 25px;
+    width:230px;
+}
+.SideBarInputCenter{
+    margin-left: 105px;
+    width:77px;
+}

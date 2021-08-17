@@ -1,0 +1,35 @@
+.History{
+    margin-left: 600px;
+    margin-top: 90px;
+}
+.HistoryName{
+    font-size:30px;
+    margin-left: 20px;
+    font-weight:bold;
+    color: black;
+}
+.indhistory{
+    height: 67px;
+    width: 600px;
+    display: flex;
+    border:1px solid;
+}
+
+.HistoryStockName{
+    margin-top:10px;
+    margin-left: 20px;
+    font-size:30px;
+}
+.HistoryAmount{
+    position: absolute;
+    left: 790px;
+    margin-top:23px;
+    font-size:18px;
+}
+
+.HistoryTime{
+    position: absolute;
+    left: 1000px;
+    margin-top:23px;
+    font-size:18px;
+}
